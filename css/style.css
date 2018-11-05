@@ -1261,8 +1261,9 @@ border: 0;
   padding: 0;
   text-transform: uppercase;
   padding-top: 35px;
-  padding-left: 143px;
+  text-align: center;
 }
+
 
 .description-text {
   margin-top: 25px;
